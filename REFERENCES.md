@@ -23,8 +23,9 @@ In this file, I highlight relevant works that anyone interested in this field sh
 - (Oculus Rift, Unity, ROS) Le, Dinh Tung, et al. "Intuitive virtual reality based control of a real-world mobile manipulator." 2020 16th International Conference on Control, Automation, Robotics and Vision (ICARCV). IEEE, 2020.
 
 ### C. End-user robot programming in augmented reality:
-- (Android Phone) Thoo, Yong Joon, et al. "Online and Offline Robot Programming via Augmented Reality Workspaces." arXiv preprint arXiv:2107.01884 (2021). 
+- (Phone) Thoo, Yong Joon, et al. "Online and Offline Robot Programming via Augmented Reality Workspaces." arXiv preprint arXiv:2107.01884 (2021). 
 - (Hololens, Monitor) Yigitbas, Enes, Ivan Jovanovikj, and Gregor Engels. "Simplifying robot programming using augmented reality and end-user development." IFIP Conference on Human-Computer Interaction. Springer, Cham, 2021.
+- (Tablet) Kapinus, Michal, et al. "Spatially situated end-user robot programming in augmented reality." 2019 28th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN). IEEE, 2019.
 
 ### D. End-user path programming:
 - (Unity, ROS, Monitor) Ajaykumar, Gopika, Maia Stiber, and Chien-Ming Huang. "Designing user-centric programming aids for kinesthetic teaching of collaborative robots." Robotics and Autonomous Systems 145 (2021): 103845.
