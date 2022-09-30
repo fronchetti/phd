@@ -17,12 +17,14 @@ In this file, I highlight relevant works that anyone interested in this field sh
 - (Hololens) Ostanin, Mikhail, and Alexandr Klimchik. "Interactive robot programing using mixed reality." IFAC-PapersOnLine 51.22 (2018): 50-55.
 - (Hololens) Verdú, Celia Redondo, and Natalia Sempere Maciá. Mixed reality for industrial robot programming. Diss. University of Skövde, 2022.
 - (Hololens) Quintero, Camilo Perez, et al. "Robot programming through augmented trajectories." Proceedings of the 1st International Workshop on Virtual, Augmented, and Mixed Reality for HRI (VAM-HRI). 2018.
+- (Hololens, Monitor) Yigitbas, Enes, Ivan Jovanovikj, and Gregor Engels. "Simplifying robot programming using augmented reality and end-user development." IFIP Conference on Human-Computer Interaction. Springer, Cham, 2021.
  
 ### B. End-user robot programming in virtual reality:
 - (Oculus Rift, Unity, ROS) Le, Dinh Tung, et al. "Intuitive virtual reality based control of a real-world mobile manipulator." 2020 16th International Conference on Control, Automation, Robotics and Vision (ICARCV). IEEE, 2020.
 
 ### C. End-user robot programming in augmented reality:
 - (Android Phone) Thoo, Yong Joon, et al. "Online and Offline Robot Programming via Augmented Reality Workspaces." arXiv preprint arXiv:2107.01884 (2021). 
+- (Hololens, Monitor) Yigitbas, Enes, Ivan Jovanovikj, and Gregor Engels. "Simplifying robot programming using augmented reality and end-user development." IFIP Conference on Human-Computer Interaction. Springer, Cham, 2021.
 
 ### D. End-user path programming:
 - (Unity, ROS, Monitor) Ajaykumar, Gopika, Maia Stiber, and Chien-Ming Huang. "Designing user-centric programming aids for kinesthetic teaching of collaborative robots." Robotics and Autonomous Systems 145 (2021): 103845.
@@ -34,6 +36,7 @@ In this file, I highlight relevant works that anyone interested in this field sh
 
 ### A. Robot manipulation in mixed reality:
 - (Hololens) Quintero, Camilo Perez, et al. "Robot programming through augmented trajectories." Proceedings of the 1st International Workshop on Virtual, Augmented, and Mixed Reality for HRI (VAM-HRI). 2018.
+- (Hololens, Monitor) Yigitbas, Enes, Ivan Jovanovikj, and Gregor Engels. "Simplifying robot programming using augmented reality and end-user development." IFIP Conference on Human-Computer Interaction. Springer, Cham, 2021.
 
 ### B. Robot manipulation in virtual reality:
 - (Oculus Rift, Unity, ROS) Le, Dinh Tung, et al. "Intuitive virtual reality based control of a real-world mobile manipulator." 2020 16th International Conference on Control, Automation, Robotics and Vision (ICARCV). IEEE, 2020.
