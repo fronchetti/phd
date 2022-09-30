@@ -20,4 +20,4 @@ Not all of them are strictly related to robots, but some could be used on them.
 
 ## ▶️ Writing
 - [Overleaf](https://overleaf.com/) - LaTeX is a standard for most researchers on Engineering. Overleaf is a collaborative online editor used to write papers on LaTeX. This is the primary tool I use to write papers in collaboration with my coworkers.
-- [Grammarly](https://grammarly.com/) - I am an international student, and my first language is Portuguese. Grammarly helps me with my mistakes while writing in English. Its support is not perfect (e.g., it doesn't work on Overleaf), but tends to help a lot.
+- [Grammarly](https://grammarly.com/) - I am an international student, and my first language is Portuguese. Grammarly helps me with my mistakes while writing in English. Its support is not perfect (e.g., it doesn't work on Overleaf), but tends to help a lot. If English is not your primary language and your advisor can pay for the premium version of Overleaf, ask for it. 
