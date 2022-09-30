@@ -1,1 +1,32 @@
+Making robot programming easier is not a simple task. Many challenges exist in this domain, and we must be aware of what other researchers are doing in their labs.
+In this file, I highlight relevant works that anyone interested in this field should know about:
 
+## Robot Programming
+
+### Introduction to the concept of end-user robot programming:
+- Ajaykumar, Gopika, Maureen Steele, and Chien-Ming Huang. "A survey on end-user robot programming." ACM Computing Surveys (CSUR) 54.8 (2021): 1-36.
+- Suzuki, Ryo, et al. "Augmented Reality and Robotics: A Survey and Taxonomy for AR-enhanced Human-Robot Interaction and Robotic Interfaces." CHI Conference on Human Factors in Computing Systems. 2022.
+
+### A. End-user robot programming in mixed reality:
+- (Leap Motion, VR) Xu, Yang, et al. "A Novel Robot Teaching System Based on Mixed Reality." 2018 3rd International Conference on Advanced Robotics and Mechatronics (ICARM). IEEE, 2018.
+- (Hololens) Neves, João, Diogo Serrario, and J. Norberto Pires. "Application of mixed reality in robot manipulator programming." Industrial Robot: An International Journal (2018).
+- (Hololens) Lotsaris, Konstantinos, et al. "AR based robot programming using teaching by demonstration techniques." Procedia CIRP 97 (2021): 459-463.
+- (Magic Leap) Rosen, Eric, et al. "Building plannable representations with mixed reality." 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2020.
+- (Hololens) Bambuŝek, Daniel, et al. "Combining interactive spatial augmented reality with head-mounted display for end-user collaborative robot programming." 2019 28th IEEE International Conference on Robot and Human Interactive Communication (RO-MAN). IEEE, 2019.
+- (Hololens) Rosen, Eric, et al. "Communicating and controlling robot arm motion intent through mixed-reality head-mounted displays." The International Journal of Robotics Research 38.12-13 (2019): 1513-1526.
+- (Hololens) Ostanin, Mikhail, and Alexandr Klimchik. "Interactive robot programing using mixed reality." IFAC-PapersOnLine 51.22 (2018): 50-55.
+- (Hololens) Verdú, Celia Redondo, and Natalia Sempere Maciá. Mixed reality for industrial robot programming. Diss. University of Skövde, 2022.
+ 
+### B. End-user robot programming in virtual reality:
+- (Oculus Rift, Unity, ROS) Le, Dinh Tung, et al. "Intuitive virtual reality based control of a real-world mobile manipulator." 2020 16th International Conference on Control, Automation, Robotics and Vision (ICARCV). IEEE, 2020.
+
+### C. End-user robot programming in augmented reality:
+- (Android Phone) Thoo, Yong Joon, et al. "Online and Offline Robot Programming via Augmented Reality Workspaces." arXiv preprint arXiv:2107.01884 (2021). 
+
+### D. End-user path programming:
+- (Unity, ROS, Monitor) Ajaykumar, Gopika, Maia Stiber, and Chien-Ming Huang. "Designing user-centric programming aids for kinesthetic teaching of collaborative robots." Robotics and Autonomous Systems 145 (2021): 103845.
+- (Hololens, Kuka) Ostanin, Mikhail, and Alexandr Klimchik. "Interactive robot programing using mixed reality." IFAC-PapersOnLine 51.22 (2018): 50-55.
+- (Oculus Rift, Unity, ROS) Le, Dinh Tung, et al. "Intuitive virtual reality based control of a real-world mobile manipulator." 2020 16th International Conference on Control, Automation, Robotics and Vision (ICARCV). IEEE, 2020.
+
+## Robot Manipulation:
+- (Oculus Rift, Unity, ROS) Le, Dinh Tung, et al. "Intuitive virtual reality based control of a real-world mobile manipulator." 2020 16th International Conference on Control, Automation, Robotics and Vision (ICARCV). IEEE, 2020.
