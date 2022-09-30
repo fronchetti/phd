@@ -34,7 +34,7 @@ In this file, I highlight relevant works that anyone interested in this field sh
 
 ### A. Robot manipulation in mixed reality:
 - (Hololens) Quintero, Camilo Perez, et al. "Robot programming through augmented trajectories." Proceedings of the 1st International Workshop on Virtual, Augmented, and Mixed Reality for HRI (VAM-HRI). 2018.
-- 
+
 ### B. Robot manipulation in virtual reality:
 - (Oculus Rift, Unity, ROS) Le, Dinh Tung, et al. "Intuitive virtual reality based control of a real-world mobile manipulator." 2020 16th International Conference on Control, Automation, Robotics and Vision (ICARCV). IEEE, 2020.
 
