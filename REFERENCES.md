@@ -30,3 +30,9 @@ In this file, I highlight relevant works that anyone interested in this field sh
 
 ## Robot Manipulation:
 - (Oculus Rift, Unity, ROS) Le, Dinh Tung, et al. "Intuitive virtual reality based control of a real-world mobile manipulator." 2020 16th International Conference on Control, Automation, Robotics and Vision (ICARCV). IEEE, 2020.
+
+
+## Mixed Reality
+
+### A. Limitations
+- (Hololens) Filipenko, Michael, et al. "Opportunities and limitations of mixed reality holograms in industrial robotics." arXiv preprint arXiv:2001.08166 (2020).
