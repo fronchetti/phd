@@ -13,7 +13,7 @@ Not all of them are strictly related to robots, but some could be used on them.
 - [ABB PC SDK](https://developercenter.robotstudio.com/pc-sdk) - Probably one of the best approaches to implement network communication between ABB robots and computers. We used the PC SDK to implement our block-based languages through WPF applications in .NET environments. This SDK was widely supported by ABB at the moment. 
 
 ## ▶️ 3D Modeling
-- [Blender](https://www.blender.org/) - My primary tool for 3D modeling. I used it to create models for our experiments, apps and papers. For illustrations on papers, I love to use the [Freestyle rendering engine](https://docs.blender.org/manual/en/latest/render/freestyle/introduction.html) native on Blender. For more complex models, a less stressful option is to buy them on [TurboSquid](https://www.turbosquid.com/) (although some models might be expensive for most researchers).
+- [Blender](https://www.blender.org/) - My primary tool for 3D modeling. I used it to create models for our experiments, apps and papers. For paper illustrations, I love to use Blender's [Freestyle rendering engine](https://docs.blender.org/manual/en/latest/render/freestyle/introduction.html), it transforms the output image on a sketch. For more complex models, a less stressful option is to buy them on [TurboSquid](https://www.turbosquid.com/) (although some models might be too expensive for most researchers).
 
 ## ▶️ Desktop Development
 - [Windows Presentation Foundation](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/) - Great framework to implement desktop applications for Windows. We used this on the two-armed and mobile robots experiments. 
