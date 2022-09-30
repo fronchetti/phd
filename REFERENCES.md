@@ -1,7 +1,7 @@
 Making robot programming easier is not a simple task. Many challenges exist in this domain, and we must be aware of what other researchers are doing in their labs.
 In this file, I highlight relevant works that anyone interested in this field should know about:
 
-## Robot Programming
+## :arrow_forward: Robot Programming
 
 ### Introduction to the concept of end-user robot programming:
 - Ajaykumar, Gopika, Maureen Steele, and Chien-Ming Huang. "A survey on end-user robot programming." ACM Computing Surveys (CSUR) 54.8 (2021): 1-36.
@@ -28,11 +28,11 @@ In this file, I highlight relevant works that anyone interested in this field sh
 - (Hololens, Kuka) Ostanin, Mikhail, and Alexandr Klimchik. "Interactive robot programing using mixed reality." IFAC-PapersOnLine 51.22 (2018): 50-55.
 - (Oculus Rift, Unity, ROS) Le, Dinh Tung, et al. "Intuitive virtual reality based control of a real-world mobile manipulator." 2020 16th International Conference on Control, Automation, Robotics and Vision (ICARCV). IEEE, 2020.
 
-## Robot Manipulation:
+## :arrow_forward: Robot Manipulation:
 - (Oculus Rift, Unity, ROS) Le, Dinh Tung, et al. "Intuitive virtual reality based control of a real-world mobile manipulator." 2020 16th International Conference on Control, Automation, Robotics and Vision (ICARCV). IEEE, 2020.
 
 
-## Mixed Reality
+## :arrow_forward: Mixed Reality
 
 ### A. Limitations
 - (Hololens) Filipenko, Michael, et al. "Opportunities and limitations of mixed reality holograms in industrial robotics." arXiv preprint arXiv:2001.08166 (2020).
