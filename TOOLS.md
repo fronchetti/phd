@@ -5,6 +5,13 @@ Not all of them are strictly related to robots, but some could be used on them.
 - [Overleaf](https://overleaf.com/) - LaTeX is a standard for most researchers on Engineering. Overleaf is a collaborative online editor used to write papers on LaTeX. This is the primary tool I use to write papers in collaboration with my coworkers.
 - [Grammarly](https://grammarly.com/) - I am an international student, and my first language is Portuguese. Grammarly helps me with my mistakes while writing in English. Its support is not perfect (e.g., it doesn't work on Overleaf), but tends to help a lot. If English is not your primary language and your advisor can pay for the premium version of Overleaf, ask for it. 
 
+## ▶️ Data Analysis
+- [Excel](https://www.microsoft.com/en-us/microsoft-365/excel) - As an user of Linux-based systems, I underestimated for years the power of Excel. Now, it is one of my favorite tools to analyze data and to create visualizations for my papers. I highly recommend Excel for those who want a novice-friendly tool to work with. Look at my replication packages and you will probably find a spreadsheet file somewhere. 
+- [R](https://www.r-project.org/) - When Excel can't get the job done, R and Python are my next options. A common scenario for me to use R is when I need to use statistical methods that are not implemented on Excel, but are widely available on R (e.g., [effsize](https://cran.r-project.org/web/packages/effsize/effsize.pdf)). Packages that I commonly use include [tidyr](https://tidyr.tidyverse.org/), [ggplot2](https://ggplot2.tidyverse.org/), [caret](https://topepo.github.io/caret/), [effsize](https://cran.r-project.org/web/packages/effsize/effsize.pdf), [dplyr](https://dplyr.tidyverse.org/), [plotly](https://plotly-r.com/)).
+- [Python]
+
+(**Disclaimer:** Some researchers prefer different tools than the ones listed above, and that's perfectly fine. Find the tool that is most appropriate for you and go for it.) 
+
 ## ▶️ 3D Modeling
 - [Blender](https://www.blender.org/) - My primary tool for 3D modeling. I used it to create models for our experiments, apps and papers. For paper illustrations, I love to use Blender's [Freestyle rendering engine](https://docs.blender.org/manual/en/latest/render/freestyle/introduction.html), it transforms the output image on a sketch. For more complex models, a less stressful option is to buy them on [TurboSquid](https://www.turbosquid.com/) (although some models might be too expensive for most researchers).
 
