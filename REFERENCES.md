@@ -6,6 +6,7 @@ Papers highlighted with a :star: are a must-read, so enjoy!
 ## :arrow_forward: Robot Programming
 
 ### :label: A. Introduction to end-user robot programming:
+- :star: Biggs, Geoffrey, and Bruce MacDonald. "A survey of robot programming systems." Proceedings of the Australasian conference on robotics and automation. Vol. 1. 2003.
 - :star: Rossano, Gregory F., et al. "Easy robot programming concepts: An industrial perspective." 2013 IEEE international conference on automation science and engineering (CASE). IEEE, 2013.
 - :star: Ajaykumar, Gopika, Maureen Steele, and Chien-Ming Huang. "A survey on end-user robot programming." ACM Computing Surveys (CSUR) 54.8 (2021): 1-36.
 - :star:  Suzuki, Ryo, et al. "Augmented Reality and Robotics: A Survey and Taxonomy for AR-enhanced Human-Robot Interaction and Robotic Interfaces." CHI Conference on Human Factors in Computing Systems. 2022.
