@@ -10,6 +10,9 @@ Papers highlighted with a :star: are a must-read, so enjoy!
 - (Programming Alternatives, Challenges, Applications) Villani, Valeria, et al. "Survey on human–robot collaboration in industrial settings: Safety, intuitive interfaces and applications." Mechatronics 55 (2018): 248-266.
 - (Programming Alternatives, Challenges) Tsarouchi, Panagiota, Sotiris Makris, and George Chryssolouris. "Human–robot interaction review and challenges on task planning and programming." International Journal of Computer Integrated Manufacturing 29.8 (2016): 916-931.
 
+#### :label: Collaborative robots:
+- Nunes, David, Jorge Sá Silva, and Fernando Boavida. A Practical Introduction to Human-in-the-loop Cyber-physical Systems. John Wiley & Sons, 2018.
+
 ## :arrow_forward: Robot Programming
 
 ### :label: A. Introduction to end-user robot programming:
