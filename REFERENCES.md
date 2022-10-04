@@ -47,6 +47,8 @@ Papers highlighted with a :star: are a must-read, so enjoy!
 - (Tablet, Block-based language) Mateo, Carlos, et al. "Hammer: An Android based application for end-user industrial robot programming." 2014 IEEE/ASME 10th International Conference on Mechatronic and Embedded Systems and Applications (MESA). IEEE, 2014.
 
 ### :label: E. End-user robot programming through path programming:
+#### Motivation:
+- Augustsson, Svante, et al. "How to transfer information between collaborating human operators and industrial robots in an assembly." Proceedings of the 8th nordic conference on human-computer interaction: fun, fast, foundational. 2014.
 #### Using mixed reality:
 - :star: (Unity, ROS, Monitor) Ajaykumar, Gopika, Maia Stiber, and Chien-Ming Huang. "Designing user-centric programming aids for kinesthetic teaching of collaborative robots." Robotics and Autonomous Systems 145 (2021): 103845.
 - :star: (Hololens, Kuka) Ostanin, Mikhail, and Alexandr Klimchik. "Interactive robot programing using mixed reality." IFAC-PapersOnLine 51.22 (2018): 50-55.
