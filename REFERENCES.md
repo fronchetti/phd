@@ -58,7 +58,7 @@ Papers highlighted with a :star: are a must-read, so enjoy!
 - (Block-based language) Kambhamettu, Rajeswari Hita, et al. "Collecting Insights into How Novice Programmers Naturally Express Programs for Robots." Workshop on the intersection of HCI and PL. 2021.
 - :star: (Hololens, Block-based language) Krings, Sarah Claudia, et al. "Design and Evaluation of AR-Assisted End-User Robot Path Planning Strategies." Companion of the 2022 ACM SIGCHI Symposium on Engineering Interactive Computing Systems. 2022.
 
-### :label: F. End-user robot programming through icon-based programming:
+### :label: G. End-user robot programming through icon-based programming:
 - Bischoff, Rainer, Arif Kazi, and Markus Seyfarth. "The MORPHA style guide for icon-based programming." Proceedings. 11th IEEE International Workshop on Robot and Human Interactive Communication. IEEE, 2002.
 
 ## :arrow_forward: Robot Manipulation:
