@@ -6,6 +6,7 @@ Papers highlighted with a :star: are a must-read, so enjoy!
 ## :arrow_forward: Robot Programming
 
 ### :label: A. Introduction to end-user robot programming:
+- :star: Rossano, Gregory F., et al. "Easy robot programming concepts: An industrial perspective." 2013 IEEE international conference on automation science and engineering (CASE). IEEE, 2013.
 - :star: Ajaykumar, Gopika, Maureen Steele, and Chien-Ming Huang. "A survey on end-user robot programming." ACM Computing Surveys (CSUR) 54.8 (2021): 1-36.
 - :star:  Suzuki, Ryo, et al. "Augmented Reality and Robotics: A Survey and Taxonomy for AR-enhanced Human-Robot Interaction and Robotic Interfaces." CHI Conference on Human Factors in Computing Systems. 2022.
 - Ajaykumar, Gopika, and Chien-Ming Huang. "User needs and design opportunities in end-user robot programming." Companion of the 2020 ACM/IEEE International Conference on Human-Robot Interaction. 2020.
@@ -45,6 +46,11 @@ Papers highlighted with a :star: are a must-read, so enjoy!
 - Neto, Pedro, J. Norberto Pires, and A. Paulo Moreira. "CAD-based off-line robot programming." 2010 IEEE Conference on Robotics, Automation and Mechatronics. IEEE, 2010.
 - Kim, J. Y. "CAD‐based automated robot programming in adhesive spray systems for shoe outsoles and uppers." Journal of Robotic Systems 21.11 (2004): 625-634.
 - Bedaka, Amit Kumar, and Chyi-Yeu Lin. "CAD-based robot path planning and simulation using OPEN CASCADE." Procedia computer science 133 (2018): 779-785.
+- Klein, Alexandr. "CAD-based off-line programming of painting robots." Robotica 5.4 (1987): 267-271.
+- Neto, Pedro, et al. "High‐level robot programming based on CAD: dealing with unpredictable environments." Industrial Robot: An International Journal (2012).
+- Zheng, Huadong, et al. "CAD-based automatic path generation and optimization for laser cladding robot in additive manufacturing." The International Journal of Advanced Manufacturing Technology 92.9 (2017): 3605-3614.
+- Pulkkinen, Topi, et al. "2D CAD based robot programming for processing metal profiles in short series manufacturing." 2008 International Conference on Control, Automation and Systems. IEEE, 2008.
+- :star: Neto, Pedro, J. Norberto Pires, and A. Paulo Moreira. "3D CAD-based robot programming for the SME shop-floor." 20th International Conference on Flexible Automation and Intelligent Manufacturing, FAIM. Vol. 59. 2010.
 
 ### :label: F. End-user robot programming through block-based languages:
 - (Tablet, Block-based language) Mateo, Carlos, et al. "Hammer: An Android based application for end-user industrial robot programming." 2014 IEEE/ASME 10th International Conference on Mechatronic and Embedded Systems and Applications (MESA). IEEE, 2014.
