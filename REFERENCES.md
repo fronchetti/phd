@@ -23,6 +23,7 @@ Papers highlighted with a :star: are a must-read, so enjoy!
 - :star:  Suzuki, Ryo, et al. "Augmented Reality and Robotics: A Survey and Taxonomy for AR-enhanced Human-Robot Interaction and Robotic Interfaces." CHI Conference on Human Factors in Computing Systems. 2022.
 - Ajaykumar, Gopika, and Chien-Ming Huang. "User needs and design opportunities in end-user robot programming." Companion of the 2020 ACM/IEEE International Conference on Human-Robot Interaction. 2020.
 - Huang, Chien-Ming. "Contextual Programming of Collaborative Robots." International Conference on Human-Computer Interaction. Springer, Cham, 2020.
+- (Comparison of programming methods) Burghardt, Andrzej, et al. "Programming of industrial robots using virtual reality and digital twins." Applied Sciences 10.2 (2020): 486.
 
 ### :label: B. End-user robot programming in mixed reality:
 - (Leap Motion, VR) Xu, Yang, et al. "A Novel Robot Teaching System Based on Mixed Reality." 2018 3rd International Conference on Advanced Robotics and Mechatronics (ICARM). IEEE, 2018.
