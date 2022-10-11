@@ -1,5 +1,4 @@
-There are a plenty of tools we can combine to program robots. In this file, I highlight some tools that are relevant and/or interesting to use in robotics.
-Not all of them are strictly related to robots, but some could be used on them.
+There are a plenty of tools that I use as a researcher. In this file, I highlight some tools that are relevant and/or interesting to use in robotics and while doing research. Not all of them are strictly related to robotics, but many could be used with them.
 
 **Disclaimer:** Some researchers prefer different tools than the ones listed below, and that's perfectly fine. Find the tools that are most appropriate for you and use them.
 
