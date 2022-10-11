@@ -41,6 +41,7 @@ Papers highlighted with a :star: are a must-read, so enjoy!
 ### :label: C. End-user robot programming in virtual reality:
 - (Oculus Rift, Unity, ROS) Le, Dinh Tung, et al. "Intuitive virtual reality based control of a real-world mobile manipulator." 2020 16th International Conference on Control, Automation, Robotics and Vision (ICARCV). IEEE, 2020.
 - (Cardboard glasses, Education) Román-Ibáñez, Vicente, et al. "A low-cost immersive virtual reality system for teaching robotic manipulators programming." Sustainability 10.4 (2018): 1102.
+- (Oculus Rift) Burghardt, Andrzej, et al. "Programming of industrial robots using virtual reality and digital twins." Applied Sciences 10.2 (2020): 486.
 
 ### :label: D. End-user robot programming in augmented reality:
 - :star: (Phone) Thoo, Yong Joon, et al. "Online and Offline Robot Programming via Augmented Reality Workspaces." arXiv preprint arXiv:2107.01884 (2021). 
