@@ -1,7 +1,7 @@
 There are a plenty of tools we can combine to program robots. In this file, I highlight some tools that are relevant and/or interesting to use in robotics.
 Not all of them are strictly related to robots, but some could be used on them.
 
-**Disclaimer:** Some researchers prefer different tools than the ones listed below, and that's perfectly fine. Find the tool that is most appropriate for you and use them.
+**Disclaimer:** Some researchers prefer different tools than the ones listed below, and that's perfectly fine. Find the tools that are most appropriate for you and use them.
 
 ## ▶️ Writing
 - [Overleaf](https://overleaf.com/) - LaTeX is a standard for most researchers on Engineering. Overleaf is a collaborative online editor used to write papers on LaTeX. This is the primary tool I use to write papers in collaboration with my coworkers.
