@@ -1,4 +1,4 @@
-There are a plenty of tools that I use as a researcher. In this file, I highlight some tools that are relevant and/or interesting to use in robotics and while doing research. Not all of them are strictly related to robotics, but many could be used with them.
+There are a plenty of tools that I use as a researcher. In this file, I highlight some of them that are relevant and/or interesting to use in robotics and while doing research.
 
 **Disclaimer:** Some researchers prefer different tools than the ones listed below, and that's perfectly fine. Find the tools that are most appropriate for you and use them.
 
