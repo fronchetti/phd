@@ -12,13 +12,14 @@ Not all of them are strictly related to robots, but some could be used on them.
 
 (**Disclaimer:** Some researchers prefer different tools than the ones listed above, and that's perfectly fine. Find the tool that is most appropriate for you and go for it.) 
 
-## ▶️ 3D Modeling
+## ▶️ Illustration
 - [Blender](https://www.blender.org/) - My primary tool for 3D modeling, and it is open-source! I used it to create models for our experiments, apps and papers. For paper illustrations, I love to use Blender's [Freestyle rendering engine](https://docs.blender.org/manual/en/latest/render/freestyle/introduction.html), it transforms the output image on a sketch. For more complex models, a less stressful option is to buy them on [TurboSquid](https://www.turbosquid.com/) (although some models might be too expensive for most researchers).
-- [3DS Max](https://www.autodesk.com/products/3ds-max/overview) - A paid alternative to Blender that I use for models we buy from [TurboSquid](https://www.turbosquid.com/) (many designers don't create models for Blender). Students have free access to it through their university email. The Arnold rendering engine is super cool, and that's why I believe 3DS Max is worth mentioning. 
+- [3DS Max](https://www.autodesk.com/products/3ds-max/overview) - A paid alternative to Blender that I use for models we buy from [TurboSquid](https://www.turbosquid.com/) (many designers don't create models for Blender). Students have free access to it through their university email. The Arnold rendering engine is super cool, and that's why I believe 3DS Max is worth mentioning.
+- [Draw.io](https://draw.io/) - For diagrams, this website is usually my first choice. I commonly use it to create workflows describing how my methods were executed. The tool is free to use and can easily be connected to Google Drivew.
+- [Pixlr](https://pixlr.com/) - For image editing, Pixlr is an online tool that provides the basic functionalities of programs such as Photoshop and GIMP. I use it everytime I need to edit an image (e.g. crop, resize, add border, change brightness, etc).
 
 ## ▶️ Game Development
 - [Unity Gaming Engine](https://unity.com/) - Mainly used to implement interactive 3D environments that could be used in combination with other toolkits.
-
 
 ## ▶️ Mixed Reality
 - [Mixed Reality Toolkit](https://learn.microsoft.com/en-us/windows/mixed-reality/mrtk-unity/) - Used to implement mixed reality applications on Microsoft devices. The primary toolkit for Hololens.
