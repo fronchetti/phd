@@ -76,6 +76,9 @@ Papers highlighted with a :star: are a must-read, so enjoy!
 ### :label: G. End-user robot programming through icon-based programming:
 - Bischoff, Rainer, Arif Kazi, and Markus Seyfarth. "The MORPHA style guide for icon-based programming." Proceedings. 11th IEEE International Workshop on Robot and Human Interactive Communication. IEEE, 2002.
 
+### :label: H. End-user robot programming through flow-chart programming:
+- Dmytriyev, Yevheniy, et al. "On cobot programming in industrial tasks: a test case." 2022 International Congress on Human-Computer Interaction, Optimization and Robotic Applications (HORA). IEEE, 2022.
+
 ## :arrow_forward: Robot Manipulation:
 
 ### :label: A. Robot manipulation in mixed reality:
