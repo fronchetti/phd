@@ -96,6 +96,7 @@ Papers highlighted with a :star: are a must-read, so enjoy!
 
 ### :label: I. End-user robot programming by demonstration:
 - :star: Fischer, Kerstin, et al. "A comparison of types of robot control for programming by demonstration." 2016 11th ACM/IEEE International Conference on Human-Robot Interaction (HRI). IEEE, 2016.
+- :star: Bravo, Flor A., Alejandra M. González, and Enrique González. "A review of intuitive robot programming environments for educational purposes." 2017 IEEE 3rd Colombian Conference on Automatic Control (CCAC). IEEE, 2017.
 
 
 ## :arrow_forward: End-User Robot Manipulation:
