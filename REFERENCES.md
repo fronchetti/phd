@@ -39,6 +39,8 @@ Papers highlighted with a :star: are a must-read, so enjoy!
  - (Hololens, Block-based language) Krings, Sarah Claudia, et al. "Design and Evaluation of AR-Assisted End-User Robot Path Planning Strategies." Companion of the 2022 ACM SIGCHI Symposium on Engineering Interactive Computing Systems. 2022.
  - (Hololens) Hoang, Khoa C., et al. "Virtual barriers in augmented reality for safe and effective human-robot cooperation in manufacturing." 2022 31st IEEE International Conference on Robot and Human Interactive Communication (RO-MAN). IEEE, 2022.
  - (Hololens, ROS) Ostanin, Mikhail, et al. "Human-robot interaction for robotic manipulator programming in Mixed Reality." 2020 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2020.
+ - (Hololens) Piccinelli, Marco, et al. "Trajectory planning using Mixed Reality: an experimental validation." 2021 20th International Conference on Advanced Robotics (ICAR). IEEE, 2021.
+
 
 ### :label: C. End-user robot programming in virtual reality:
 - (Oculus Rift, Unity, ROS) Le, Dinh Tung, et al. "Intuitive virtual reality based control of a real-world mobile manipulator." 2020 16th International Conference on Control, Automation, Robotics and Vision (ICARCV). IEEE, 2020.
@@ -63,7 +65,8 @@ Papers highlighted with a :star: are a must-read, so enjoy!
 - (Hololens, Block-based language) Krings, Sarah Claudia, et al. "Design and Evaluation of AR-Assisted End-User Robot Path Planning Strategies." Companion of the 2022 ACM SIGCHI Symposium on Engineering Interactive Computing Systems. 2022.
 - (Hololens, ROS) Ostanin, Mikhail, et al. "Human-robot interaction for robotic manipulator programming in Mixed Reality." 2020 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2020.
 - (Hololens) Hoang, Khoa C., et al. "Virtual barriers in augmented reality for safe and effective human-robot cooperation in manufacturing." 2022 31st IEEE International Conference on Robot and Human Interactive Communication (RO-MAN). IEEE, 2022.
-
+ - (Hololens) Piccinelli, Marco, et al. "Trajectory planning using Mixed Reality: an experimental validation." 2021 20th International Conference on Advanced Robotics (ICAR). IEEE, 2021.
+ 
 #### Using CAD-based models:
 - Neto, Pedro, J. Norberto Pires, and A. Paulo Moreira. "CAD-based off-line robot programming." 2010 IEEE Conference on Robotics, Automation and Mechatronics. IEEE, 2010.
 - Kim, J. Y. "CAD‐based automated robot programming in adhesive spray systems for shoe outsoles and uppers." Journal of Robotic Systems 21.11 (2004): 625-634.
