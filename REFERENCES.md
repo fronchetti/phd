@@ -101,7 +101,8 @@ Papers highlighted with a :star: are a must-read, so enjoy!
 ### :label: B. Robot manipulation in virtual reality:
 - (Oculus Rift, Unity, ROS) Le, Dinh Tung, et al. "Intuitive virtual reality based control of a real-world mobile manipulator." 2020 16th International Conference on Control, Automation, Robotics and Vision (ICARCV). IEEE, 2020.
 
-## :arrow_forward: Mixed Reality
+## :arrow_forward: Mixed Reality in Robotics
 
-### :label: A. Limitations
+### :label: A. Overview, Benefits and Limitations
 - (Hololens) Filipenko, Michael, et al. "Opportunities and limitations of mixed reality holograms in industrial robotics." arXiv preprint arXiv:2001.08166 (2020).
+- Yu, Jiawei, et al. "MR Meets Robotics: A Review of Mixed Reality Technology in Robotics." 2022 6th International Conference on Robotics, Control and Automation (ICRCA). IEEE, 2022.
