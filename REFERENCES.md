@@ -45,7 +45,6 @@ Papers highlighted with a :star: are a must-read, so enjoy!
 - (Hololens) Xue, Chung, Yuansong Qiao, and Niall Murray. "Enabling human-robot-interaction for remote robotic operation via augmented reality." 2020 IEEE 21st International Symposium on" A World of Wireless, Mobile and Multimedia Networks"(WoWMoM). IEEE, 2020.
 - (Hololens, NASA-TLX) Gadre, Samir Yitzhak, et al. "End-user robot programming using mixed reality." 2019 International conference on robotics and automation (ICRA). IEEE, 2019.
 
-
 ### :label: C. End-user robot programming in virtual reality:
 - (Oculus Rift, Unity, ROS) Le, Dinh Tung, et al. "Intuitive virtual reality based control of a real-world mobile manipulator." 2020 16th International Conference on Control, Automation, Robotics and Vision (ICARCV). IEEE, 2020.
 - (Cardboard glasses, Education) Román-Ibáñez, Vicente, et al. "A low-cost immersive virtual reality system for teaching robotic manipulators programming." Sustainability 10.4 (2018): 1102.
@@ -94,6 +93,10 @@ Papers highlighted with a :star: are a must-read, so enjoy!
 
 ### :label: H. End-user robot programming through flow-chart programming:
 - Dmytriyev, Yevheniy, et al. "On cobot programming in industrial tasks: a test case." 2022 International Congress on Human-Computer Interaction, Optimization and Robotic Applications (HORA). IEEE, 2022.
+
+### :label: I. End-user robot programming by demonstration:
+- :star: Fischer, Kerstin, et al. "A comparison of types of robot control for programming by demonstration." 2016 11th ACM/IEEE International Conference on Human-Robot Interaction (HRI). IEEE, 2016.
+
 
 ## :arrow_forward: End-User Robot Manipulation:
 
