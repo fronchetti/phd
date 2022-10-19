@@ -40,6 +40,7 @@ Papers highlighted with a :star: are a must-read, so enjoy!
  - (Hololens) Hoang, Khoa C., et al. "Virtual barriers in augmented reality for safe and effective human-robot cooperation in manufacturing." 2022 31st IEEE International Conference on Robot and Human Interactive Communication (RO-MAN). IEEE, 2022.
  - (Hololens, ROS) Ostanin, Mikhail, et al. "Human-robot interaction for robotic manipulator programming in Mixed Reality." 2020 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2020.
  - (Hololens) Piccinelli, Marco, et al. "Trajectory planning using Mixed Reality: an experimental validation." 2021 20th International Conference on Advanced Robotics (ICAR). IEEE, 2021.
+ - (Hololens, ROS) Evlampev, A., and M. Ostanin. "Obstacle avoidance for robotic manipulator using mixed reality glasses." 2019 3rd School on Dynamics of Complex Networks and their Application in Intellectual Robotics (DCNAIR). IEEE, 2019.
 
 
 ### :label: C. End-user robot programming in virtual reality:
@@ -66,7 +67,8 @@ Papers highlighted with a :star: are a must-read, so enjoy!
 - (Hololens, ROS) Ostanin, Mikhail, et al. "Human-robot interaction for robotic manipulator programming in Mixed Reality." 2020 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2020.
 - (Hololens) Hoang, Khoa C., et al. "Virtual barriers in augmented reality for safe and effective human-robot cooperation in manufacturing." 2022 31st IEEE International Conference on Robot and Human Interactive Communication (RO-MAN). IEEE, 2022.
  - (Hololens) Piccinelli, Marco, et al. "Trajectory planning using Mixed Reality: an experimental validation." 2021 20th International Conference on Advanced Robotics (ICAR). IEEE, 2021.
- 
+ - (Hololens, ROS) Evlampev, A., and M. Ostanin. "Obstacle avoidance for robotic manipulator using mixed reality glasses." 2019 3rd School on Dynamics of Complex Networks and their Application in Intellectual Robotics (DCNAIR). IEEE, 2019.
+
 #### Using CAD-based models:
 - Neto, Pedro, J. Norberto Pires, and A. Paulo Moreira. "CAD-based off-line robot programming." 2010 IEEE Conference on Robotics, Automation and Mechatronics. IEEE, 2010.
 - Kim, J. Y. "CAD‐based automated robot programming in adhesive spray systems for shoe outsoles and uppers." Journal of Robotic Systems 21.11 (2004): 625-634.
