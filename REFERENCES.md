@@ -52,12 +52,15 @@ Papers highlighted with a :star: are a must-read, so enjoy!
 ### :label: E. End-user robot programming through path programming:
 #### Motivation:
 - Augustsson, Svante, et al. "How to transfer information between collaborating human operators and industrial robots in an assembly." Proceedings of the 8th nordic conference on human-computer interaction: fun, fast, foundational. 2014.
+
 #### Using mixed reality:
 - :star: (Unity, ROS, Monitor) Ajaykumar, Gopika, Maia Stiber, and Chien-Ming Huang. "Designing user-centric programming aids for kinesthetic teaching of collaborative robots." Robotics and Autonomous Systems 145 (2021): 103845.
 - :star: (Hololens, Kuka) Ostanin, Mikhail, and Alexandr Klimchik. "Interactive robot programing using mixed reality." IFAC-PapersOnLine 51.22 (2018): 50-55.
 - (Oculus Rift, Unity, ROS) Le, Dinh Tung, et al. "Intuitive virtual reality based control of a real-world mobile manipulator." 2020 16th International Conference on Control, Automation, Robotics and Vision (ICARCV). IEEE, 2020.
 - :star: (Hololens) Quintero, Camilo Perez, et al. "Robot programming through augmented trajectories in augmented reality." 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2018.
 - (Hololens, Block-based language) Krings, Sarah Claudia, et al. "Design and Evaluation of AR-Assisted End-User Robot Path Planning Strategies." Companion of the 2022 ACM SIGCHI Symposium on Engineering Interactive Computing Systems. 2022.
+- (Hololens, ROS) Ostanin, Mikhail, et al. "Human-robot interaction for robotic manipulator programming in Mixed Reality." 2020 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2020.
+
 #### Using CAD-based models:
 - Neto, Pedro, J. Norberto Pires, and A. Paulo Moreira. "CAD-based off-line robot programming." 2010 IEEE Conference on Robotics, Automation and Mechatronics. IEEE, 2010.
 - Kim, J. Y. "CAD‐based automated robot programming in adhesive spray systems for shoe outsoles and uppers." Journal of Robotic Systems 21.11 (2004): 625-634.
