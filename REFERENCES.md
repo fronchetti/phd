@@ -14,7 +14,7 @@ Papers highlighted with a :star: are a must-read, so enjoy!
 ### :label: Collaborative robots:
 - Nunes, David, Jorge Sá Silva, and Fernando Boavida. A Practical Introduction to Human-in-the-loop Cyber-physical Systems. John Wiley & Sons, 2018.
 
-## :arrow_forward: End-user Robot Programming
+## :arrow_forward: End-User Robot Programming
 
 ### :label: A. Introduction to end-user robot programming:
 - :star: Biggs, Geoffrey, and Bruce MacDonald. "A survey of robot programming systems." Proceedings of the Australasian conference on robotics and automation. Vol. 1. 2003.
