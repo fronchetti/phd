@@ -37,7 +37,9 @@ Papers highlighted with a :star: are a must-read, so enjoy!
 - :star: (Hololens) Quintero, Camilo Perez, et al. "Robot programming through augmented trajectories." Proceedings of the 1st International Workshop on Virtual, Augmented, and Mixed Reality for HRI (VAM-HRI). 2018.
 - :star: (Hololens, Monitor) Yigitbas, Enes, Ivan Jovanovikj, and Gregor Engels. "Simplifying robot programming using augmented reality and end-user development." IFIP Conference on Human-Computer Interaction. Springer, Cham, 2021.
  - (Hololens, Block-based language) Krings, Sarah Claudia, et al. "Design and Evaluation of AR-Assisted End-User Robot Path Planning Strategies." Companion of the 2022 ACM SIGCHI Symposium on Engineering Interactive Computing Systems. 2022.
- 
+ - (Hololens) Hoang, Khoa C., et al. "Virtual barriers in augmented reality for safe and effective human-robot cooperation in manufacturing." 2022 31st IEEE International Conference on Robot and Human Interactive Communication (RO-MAN). IEEE, 2022.
+ - (Hololens, ROS) Ostanin, Mikhail, et al. "Human-robot interaction for robotic manipulator programming in Mixed Reality." 2020 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2020.
+
 ### :label: C. End-user robot programming in virtual reality:
 - (Oculus Rift, Unity, ROS) Le, Dinh Tung, et al. "Intuitive virtual reality based control of a real-world mobile manipulator." 2020 16th International Conference on Control, Automation, Robotics and Vision (ICARCV). IEEE, 2020.
 - (Cardboard glasses, Education) Román-Ibáñez, Vicente, et al. "A low-cost immersive virtual reality system for teaching robotic manipulators programming." Sustainability 10.4 (2018): 1102.
@@ -60,6 +62,7 @@ Papers highlighted with a :star: are a must-read, so enjoy!
 - :star: (Hololens) Quintero, Camilo Perez, et al. "Robot programming through augmented trajectories in augmented reality." 2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2018.
 - (Hololens, Block-based language) Krings, Sarah Claudia, et al. "Design and Evaluation of AR-Assisted End-User Robot Path Planning Strategies." Companion of the 2022 ACM SIGCHI Symposium on Engineering Interactive Computing Systems. 2022.
 - (Hololens, ROS) Ostanin, Mikhail, et al. "Human-robot interaction for robotic manipulator programming in Mixed Reality." 2020 IEEE International Conference on Robotics and Automation (ICRA). IEEE, 2020.
+- (Hololens) Hoang, Khoa C., et al. "Virtual barriers in augmented reality for safe and effective human-robot cooperation in manufacturing." 2022 31st IEEE International Conference on Robot and Human Interactive Communication (RO-MAN). IEEE, 2022.
 
 #### Using CAD-based models:
 - Neto, Pedro, J. Norberto Pires, and A. Paulo Moreira. "CAD-based off-line robot programming." 2010 IEEE Conference on Robotics, Automation and Mechatronics. IEEE, 2010.
