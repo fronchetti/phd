@@ -1,7 +1,7 @@
 Making robot programming easier is not a simple task. Many challenges exist in this domain, and we must be aware of what other researchers are doing in their labs.
 In this file, I present relevant studies that anyone working on this topic should know about.
 
-Papers highlighted with a :star: are a must-read, so enjoy!
+Papers highlighted with a :star: are a must-read in my opinion, enjoy!
 
 ## ▶️ Human-robot Interaction
 ### 🏷️ Opportunities, challenges and applications:
