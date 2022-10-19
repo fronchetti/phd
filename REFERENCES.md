@@ -42,6 +42,7 @@ Papers highlighted with a :star: are a must-read, so enjoy!
  - (Hololens) Piccinelli, Marco, et al. "Trajectory planning using Mixed Reality: an experimental validation." 2021 20th International Conference on Advanced Robotics (ICAR). IEEE, 2021.
  - (Hololens, ROS) Evlampev, A., and M. Ostanin. "Obstacle avoidance for robotic manipulator using mixed reality glasses." 2019 3rd School on Dynamics of Complex Networks and their Application in Intellectual Robotics (DCNAIR). IEEE, 2019.
 - (Hololens) Xue, Chung, Yuansong Qiao, and Niall Murray. "Enabling human-robot-interaction for remote robotic operation via augmented reality." 2020 IEEE 21st International Symposium on" A World of Wireless, Mobile and Multimedia Networks"(WoWMoM). IEEE, 2020.
+- (Hololens, NASA-TLX) Gadre, Samir Yitzhak, et al. "End-user robot programming using mixed reality." 2019 International conference on robotics and automation (ICRA). IEEE, 2019.
 
 ### :label: C. End-user robot programming in virtual reality:
 - (Oculus Rift, Unity, ROS) Le, Dinh Tung, et al. "Intuitive virtual reality based control of a real-world mobile manipulator." 2020 16th International Conference on Control, Automation, Robotics and Vision (ICARCV). IEEE, 2020.
@@ -68,6 +69,7 @@ Papers highlighted with a :star: are a must-read, so enjoy!
 - (Hololens) Hoang, Khoa C., et al. "Virtual barriers in augmented reality for safe and effective human-robot cooperation in manufacturing." 2022 31st IEEE International Conference on Robot and Human Interactive Communication (RO-MAN). IEEE, 2022.
  - (Hololens) Piccinelli, Marco, et al. "Trajectory planning using Mixed Reality: an experimental validation." 2021 20th International Conference on Advanced Robotics (ICAR). IEEE, 2021.
  - (Hololens, ROS) Evlampev, A., and M. Ostanin. "Obstacle avoidance for robotic manipulator using mixed reality glasses." 2019 3rd School on Dynamics of Complex Networks and their Application in Intellectual Robotics (DCNAIR). IEEE, 2019.
+- (Hololens, NASA-TLX) Gadre, Samir Yitzhak, et al. "End-user robot programming using mixed reality." 2019 International conference on robotics and automation (ICRA). IEEE, 2019.
 
 #### Using CAD-based models:
 - Neto, Pedro, J. Norberto Pires, and A. Paulo Moreira. "CAD-based off-line robot programming." 2010 IEEE Conference on Robotics, Automation and Mechatronics. IEEE, 2010.
