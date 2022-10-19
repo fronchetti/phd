@@ -4,14 +4,14 @@ In this file, I present relevant works that anyone working on this topic should 
 Papers highlighted with a :star: are a must-read, so enjoy!
 
 ## ▶️ Human-robot Interaction
-#### 🏷️ Opportunities, challenges and applications:
+### 🏷️ Opportunities, challenges and applications:
 - (Manipulation, Programming) Brogårdh, Torgny. "Present and future robot control development—An industrial perspective." Annual Reviews in Control 31.1 (2007): 69-79.
 - Heyer, Clint. "Human-robot interaction and future industrial robotics applications." 2010 ieee/rsj international conference on intelligent robots and systems. IEEE, 2010.
 - (Programming Alternatives, Challenges, Applications) Villani, Valeria, et al. "Survey on human–robot collaboration in industrial settings: Safety, intuitive interfaces and applications." Mechatronics 55 (2018): 248-266.
 - (Programming Alternatives, Challenges) Tsarouchi, Panagiota, Sotiris Makris, and George Chryssolouris. "Human–robot interaction review and challenges on task planning and programming." International Journal of Computer Integrated Manufacturing 29.8 (2016): 916-931.
 - (Evolution, Applications, Challenges) Inkulu, Anil Kumar, et al. "Challenges and opportunities in human robot collaboration context of Industry 4.0-a state of the art review." Industrial Robot: the international journal of robotics research and application (2021).
 
-#### :label: Collaborative robots:
+### :label: Collaborative robots:
 - Nunes, David, Jorge Sá Silva, and Fernando Boavida. A Practical Introduction to Human-in-the-loop Cyber-physical Systems. John Wiley & Sons, 2018.
 
 ## :arrow_forward: Robot Programming
