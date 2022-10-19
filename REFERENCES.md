@@ -3,7 +3,7 @@ In this file, I present relevant works that anyone working on this topic should 
 
 Papers highlighted with a :star: are a must-read, so enjoy!
 
-### ▶️ Human-robot Interaction
+## ▶️ Human-robot Interaction
 #### 🏷️ Opportunities, challenges and applications:
 - (Manipulation, Programming) Brogårdh, Torgny. "Present and future robot control development—An industrial perspective." Annual Reviews in Control 31.1 (2007): 69-79.
 - Heyer, Clint. "Human-robot interaction and future industrial robotics applications." 2010 ieee/rsj international conference on intelligent robots and systems. IEEE, 2010.
