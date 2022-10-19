@@ -92,7 +92,7 @@ Papers highlighted with a :star: are a must-read, so enjoy!
 ### :label: H. End-user robot programming through flow-chart programming:
 - Dmytriyev, Yevheniy, et al. "On cobot programming in industrial tasks: a test case." 2022 International Congress on Human-Computer Interaction, Optimization and Robotic Applications (HORA). IEEE, 2022.
 
-## :arrow_forward: Robot Manipulation:
+## :arrow_forward: End-User Robot Manipulation:
 
 ### :label: A. Robot manipulation in mixed reality:
 - (Hololens) Quintero, Camilo Perez, et al. "Robot programming through augmented trajectories." Proceedings of the 1st International Workshop on Virtual, Augmented, and Mixed Reality for HRI (VAM-HRI). 2018.
