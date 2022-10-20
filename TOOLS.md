@@ -20,7 +20,7 @@ There are a plenty of tools that I use as a researcher. In this file, I highligh
 ## ▶️ Game Development
 - [Unity Gaming Engine](https://unity.com/) - Mainly used to implement interactive 3D environments in mixed or virtual reality.
 ## ▶️ Mixed Reality
-- [Mixed Reality Toolkit](https://learn.microsoft.com/en-us/windows/mixed-reality/mrtk-unity/) - Used to implement mixed reality applications on Microsoft devices. The primary toolkit for Hololens.
+- [Mixed Reality Toolkit](https://learn.microsoft.com/en-us/windows/mixed-reality/mrtk-unity/) - Used to implement mixed reality applications for Microsoft devices. The primary toolkit for Hololens.
 
 ## ▶️ Robot Network Communication
 - [ABB Externally Guided Motion](https://library.e.abb.com/public/f05090fae99a4d0ba2ee332e50865791/3HAC073318%20AM%20Externally%20Guided%20Motion%20RW7-en.pdf) - Useful for implementing ABB robot manipulation from external devices through the network. We used this approach to create the communication between Hololens 2 and our industrial robots from ABB. One may argue that we could have used ABB SDKs, but the SDKs didn't provide (at that moment) support for Unity applications, nor gave us the ability to manipulate ABB robots without path planning intervention. For those looking for more information on ABB EGM, I wrote a complete tutorial in our [egm-for-abb-robots](https://github.com/vcuse/egm-for-abb-robots) repository. 
