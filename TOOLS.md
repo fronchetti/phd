@@ -18,7 +18,7 @@ There are a plenty of tools that I use as a researcher. In this file, I highligh
 - [Pixlr](https://pixlr.com/) - For image editing, Pixlr is a great alternative. It is an online tool that provides the same basic functionalities of programs such as Photoshop. I use it everytime I need to edit an image (e.g. crop, resize, add border, change brightness, etc).
 
 ## ▶️ Game Development
-- [Unity Gaming Engine](https://unity.com/) - Mainly used to implement interactive 3D environments that could be used in combination with other toolkits.
+- [Unity Gaming Engine](https://unity.com/) - Mainly used to implement interactive 3D environments in mixed reality. I combine it with the [Mixed Reality Toolkit](https://learn.microsoft.com/en-us/windows/mixed-reality/mrtk-unity/).
 
 ## ▶️ Mixed Reality
 - [Mixed Reality Toolkit](https://learn.microsoft.com/en-us/windows/mixed-reality/mrtk-unity/) - Used to implement mixed reality applications on Microsoft devices. The primary toolkit for Hololens.
