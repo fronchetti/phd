@@ -25,7 +25,7 @@ There are a plenty of tools that I use as a researcher. In this file, I highligh
 ## ▶️ Robot Network Communication
 - [ABB Externally Guided Motion](https://library.e.abb.com/public/f05090fae99a4d0ba2ee332e50865791/3HAC073318%20AM%20Externally%20Guided%20Motion%20RW7-en.pdf) - Useful for implementing ABB robot manipulation from external devices through the network. I used this functionality to create the communication between Hololens 2 and our industrial robots from ABB. One may argue that I could have used ABB SDKs, but the SDKs don't provide support for Unity applications, nor give me the ability to manipulate ABB robots without path planning intervention. For those looking for more information on ABB EGM, I wrote a complete tutorial about it in the [egm-for-abb-robots](https://github.com/vcuse/egm-for-abb-robots) repository. 
 
-- [ABB PC SDK](https://developercenter.robotstudio.com/pc-sdk) - Probably one of the best approaches to implement communication between ABB robots and computers. We used the PC SDK to implement our block-based languages through WPF applications in .NET environments. This SDK was widely supported by ABB at the moment. 
+- [ABB PC SDK](https://developercenter.robotstudio.com/pc-sdk) - Probably one of the best approaches to implement communication between ABB robots and computers. We used the PC SDK to implement our block-based languages through WPF applications in .NET environments. This SDK is widely supported by ABB. 
 
 ## ▶️ Desktop Development
 - [Windows Presentation Foundation](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/) - Great framework to implement desktop applications for Windows. We used this on the two-armed and mobile robots experiments. 
