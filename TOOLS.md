@@ -3,7 +3,7 @@ There are a plenty of tools that I use as a researcher. In this file, I highligh
 **Disclaimer:** Some researchers prefer different tools than the ones listed below, and that's perfectly fine. Find the tools that are most appropriate for you and use them.
 
 ## ▶️ Writing
-- [Overleaf](https://overleaf.com/) - LaTeX is a standard for most researchers on Engineering. Overleaf is a collaborative online editor used to write papers on LaTeX. This is the primary tool I use to write papers in collaboration with my coworkers.
+- [Overleaf](https://overleaf.com/) - LaTeX is a standard for most researchers in Engineering. Overleaf is a collaborative online editor used to write papers on LaTeX. This is the primary tool I use to write papers in collaboration with my coworkers.
 - [Grammarly](https://grammarly.com/) - I am an international student, and my first language is Portuguese. Grammarly helps me with my writing in English. Its overall support is not perfect (e.g., it doesn't work on Overleaf), but tends to help me a lot. If English is not your primary language and your advisor can pay for the premium version of Overleaf, ask for it. 
 
 ## ▶️ Data Analysis
